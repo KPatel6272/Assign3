@@ -1,0 +1,14 @@
+C:\Semester5\DistributedApplicatons\GreetingClient\obj\Debug\net8.0\GreetingClient.GeneratedMSBuildEditorConfig.editorconfig
+C:\Semester5\DistributedApplicatons\GreetingClient\obj\Debug\net8.0\GreetingClient.AssemblyInfoInputs.cache
+C:\Semester5\DistributedApplicatons\GreetingClient\obj\Debug\net8.0\GreetingClient.AssemblyInfo.cs
+C:\Semester5\DistributedApplicatons\GreetingClient\obj\Debug\net8.0\GreetingClient.csproj.CoreCompileInputs.cache
+C:\Semester5\DistributedApplicatons\GreetingClient\bin\Debug\net8.0\GreetingClient.exe
+C:\Semester5\DistributedApplicatons\GreetingClient\bin\Debug\net8.0\GreetingClient.deps.json
+C:\Semester5\DistributedApplicatons\GreetingClient\bin\Debug\net8.0\GreetingClient.runtimeconfig.json
+C:\Semester5\DistributedApplicatons\GreetingClient\bin\Debug\net8.0\GreetingClient.dll
+C:\Semester5\DistributedApplicatons\GreetingClient\bin\Debug\net8.0\GreetingClient.pdb
+C:\Semester5\DistributedApplicatons\GreetingClient\obj\Debug\net8.0\GreetingClient.dll
+C:\Semester5\DistributedApplicatons\GreetingClient\obj\Debug\net8.0\refint\GreetingClient.dll
+C:\Semester5\DistributedApplicatons\GreetingClient\obj\Debug\net8.0\GreetingClient.pdb
+C:\Semester5\DistributedApplicatons\GreetingClient\obj\Debug\net8.0\GreetingClient.genruntimeconfig.cache
+C:\Semester5\DistributedApplicatons\GreetingClient\obj\Debug\net8.0\ref\GreetingClient.dll

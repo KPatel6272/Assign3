@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "+Edpgz88WTE=",
+  "success": true,
+  "projectFilePath": "C:\\Semester5\\DistributedApplicatons\\Assign3\\GreetingClient\\GreetingClient.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\patel\\.nuget\\packages\\system.net.http.json\\8.0.0\\system.net.http.json.8.0.0.nupkg.sha512",
+    "C:\\Users\\patel\\.nuget\\packages\\system.text.encodings.web\\8.0.0\\system.text.encodings.web.8.0.0.nupkg.sha512",
+    "C:\\Users\\patel\\.nuget\\packages\\system.text.json\\8.0.0\\system.text.json.8.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
